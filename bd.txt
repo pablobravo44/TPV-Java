@@ -1,0 +1,5 @@
+remotemysql.com:3306
+uwUNNVp4Ac
+uwUNNVp4Ac
+TQI3LGYIqA
+remotemysql ( por defecto )
